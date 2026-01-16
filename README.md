@@ -5,7 +5,7 @@ This project demonstrates asynchronous file handling and server-side logic witho
 
 ---
 
-## 🚀 Features
+##  Features
 - Write messages to a file via an HTTP route
 - Read stored messages from a file
 - Uses asynchronous file system operations
@@ -13,7 +13,7 @@ This project demonstrates asynchronous file handling and server-side logic witho
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 - Node.js core modules:
   - `http`
   - `fs`
@@ -25,7 +25,7 @@ This project demonstrates asynchronous file handling and server-side logic witho
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 │
 ├── index.js
 ├── output.txt
